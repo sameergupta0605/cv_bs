@@ -23,6 +23,7 @@ body{
 .navbar{
     
     padding: 1rem 20rem;
+    background-color: white;
 }
 
 .nav-link{
